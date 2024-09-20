@@ -1,0 +1,1 @@
+Este repositório foi criado com a finalidade re registrar meu avanço acaddêmico no estudo da linguagem GO.
